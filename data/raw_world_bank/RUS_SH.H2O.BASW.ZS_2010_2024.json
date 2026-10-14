@@ -1,0 +1,252 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 15,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2024",
+      "value": 96.9002616074642,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2023",
+      "value": 96.8670125138165,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2022",
+      "value": 96.8350937043226,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2021",
+      "value": 96.8045794762189,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2020",
+      "value": 96.7753426009288,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2019",
+      "value": 96.7474557360286,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2018",
+      "value": 96.7208870647795,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2017",
+      "value": 96.6956032384839,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2016",
+      "value": 96.6715881856809,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2015",
+      "value": 96.6488882039926,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2014",
+      "value": 96.6274699098944,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2013",
+      "value": 96.6072317213123,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2012",
+      "value": 96.5883061212066,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2011",
+      "value": 96.5704996927268,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "SH.H2O.BASW.ZS",
+        "value": "People using at least basic drinking water services (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2010",
+      "value": 96.5538627864381,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 15,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2024",
+      "value": 94.36495368,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2023",
+      "value": 92.24496346,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2022",
+      "value": 90.41799163,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2021",
+      "value": 88.21384578,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2020",
+      "value": 84.99466978,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2019",
+      "value": 82.6421618670668,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2018",
+      "value": 80.8647218726954,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2017",
+      "value": 76.0081385339105,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2016",
+      "value": 73.091434617897,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2015",
+      "value": 70.0992412263947,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2014",
+      "value": 70.5175682574413,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2013",
+      "value": 67.97,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2012",
+      "value": 66,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2011",
+      "value": 58,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    },
+    {
+      "indicator": {
+        "id": "IT.NET.USER.ZS",
+        "value": "Individuals using the Internet (% of population)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2010",
+      "value": 49,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+    }
+  ]
+]

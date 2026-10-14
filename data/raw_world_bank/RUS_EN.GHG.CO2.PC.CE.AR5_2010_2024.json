@@ -1,0 +1,252 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "total": 15,
+    "sourceid": "2",
+    "lastupdated": "2026-10-08"
+  },
+  [
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2024",
+      "value": 13.9845411189425,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2023",
+      "value": 13.5462339145189,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2022",
+      "value": 13.1413838368291,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2021",
+      "value": 13.3920757412176,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2020",
+      "value": 12.2840530273686,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2019",
+      "value": 12.7738739166789,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2018",
+      "value": 12.5939247104085,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2017",
+      "value": 12.1357322425004,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2016",
+      "value": 11.961746699283,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2015",
+      "value": 12.1481277789029,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2014",
+      "value": 12.1341694161707,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2013",
+      "value": 12.2682756012668,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2012",
+      "value": 12.6922981666833,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2011",
+      "value": 12.8138402250147,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "EN.GHG.CO2.PC.CE.AR5",
+        "value": "Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)"
+      },
+      "country": {
+        "id": "RU",
+        "value": "Russian Federation"
+      },
+      "countryiso3code": "RUS",
+      "date": "2010",
+      "value": 12.2289345872818,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    }
+  ]
+]

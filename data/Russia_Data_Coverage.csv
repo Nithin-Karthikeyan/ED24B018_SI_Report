@@ -1,0 +1,10 @@
+Variable,Indicator_Name,World_Bank_Code,Unit,Potential_Observations,Non_Missing,Missing,Missing_Years,Status
+GDP_per_capita,GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,constant 2015 US$ per person,15,15,0,,OK
+GDP_growth,GDP growth,NY.GDP.MKTP.KD.ZG,annual %,15,15,0,,OK
+Life_expectancy,Life expectancy at birth,SP.DYN.LE00.IN,years,15,15,0,,OK
+Basic_drinking_water,People using at least basic drinking-water services,SH.H2O.BASW.ZS,% of population,15,15,0,,OK
+Secondary_school_enrollment,"School enrollment, secondary",SE.SEC.ENRR,% gross,15,13,2,"2010, 2024",OK
+Electricity_access,Access to electricity,EG.ELC.ACCS.ZS,% of population,15,15,0,,OK
+Internet_users,Individuals using the Internet,IT.NET.USER.ZS,% of population,15,15,0,,OK
+CO2_per_capita_excl_LULUCF,Carbon dioxide (CO2) emissions excluding LULUCF per capita,EN.GHG.CO2.PC.CE.AR5,t CO2e per capita,15,15,0,,OK
+Forest_area,Forest area,AG.LND.FRST.ZS,% of land area,15,15,0,,OK

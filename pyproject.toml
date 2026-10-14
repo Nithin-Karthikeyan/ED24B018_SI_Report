@@ -1,0 +1,19 @@
+[project]
+name = "ed24b018-si-report"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Nithin K", email = "nithinkarthikeyan01@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.0.6",
+    ]
+
+[project.scripts]
+ed24b018-si-report = "ed24b018_si_report:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
