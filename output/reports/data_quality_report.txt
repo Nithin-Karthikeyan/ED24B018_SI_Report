@@ -25,21 +25,15 @@ Secondary_school_enrollment           15             13          2    2010, 2024
 
 UNIT CONSISTENCY CHECK
 ------------------------------------------------------------
-Status: SKIPPED
-- Unit consistency check skipped because indicator_metadata.csv was not available.
+Status: PASS
+All units match expected metadata.
 
 UNEXPECTED YEAR-TO-YEAR CHANGES
 ------------------------------------------------------------
-These observations are flagged for review only and are not automatically treated as incorrect.
+Only consecutive-year pairs are examined. A change is flagged only when it is both statistically unusual under the MAD-based screen and larger than the variable-specific practical threshold. Flagged values are retained and are review items, not automatic data errors.
 
-                   Variable  Previous_Year  Year  Previous_Value      Value    Change  Modified_Z_Score Status
-            Life_expectancy           2019  2020       73.083902  71.338780 -1.745122         -5.747101 REVIEW
-            Life_expectancy           2020  2021       71.338780  69.900244 -1.438537         -4.937314 REVIEW
-            Life_expectancy           2021  2022       69.900244  72.545610  2.645366          5.849532 REVIEW
-Secondary_school_enrollment           2019  2020      100.471745  91.581288 -8.890456         -8.112009 REVIEW
-         Electricity_access           2011  2012       99.200000 100.000000  0.800000          5.396000 REVIEW
-         Electricity_access           2014  2015      100.000000  95.500000 -4.500000        -30.352500 REVIEW
-         Electricity_access           2015  2016       95.500000  99.400000  3.900000         26.305500 REVIEW
-         Electricity_access           2016  2017       99.400000 100.000000  0.600000          4.047000 REVIEW
-             Internet_users           2010  2011       49.000000  58.000000  9.000000          7.583020 REVIEW
-             Internet_users           2011  2012       58.000000  66.000000  8.000000          6.425300 REVIEW
+                   Variable  Previous_Year  Year  Previous_Value     Value    Change  Percent_Change Screening_Metric  Screening_Value  Practical_Threshold    Threshold_Unit  Modified_Z_Score Status
+            Life_expectancy           2019  2020       73.083902 71.338780 -1.745122       -2.387834  absolute change        -1.745122                  1.0             years         -5.747101 REVIEW
+            Life_expectancy           2020  2021       71.338780 69.900244 -1.438537       -2.016486  absolute change        -1.438537                  1.0             years         -4.937314 REVIEW
+            Life_expectancy           2021  2022       69.900244 72.545610  2.645366        3.784487  absolute change         2.645366                  1.0             years          5.849532 REVIEW
+Secondary_school_enrollment           2019  2020      100.471745 91.581288 -8.890456       -8.848713  absolute change        -8.890456                  5.0 percentage points         -8.112009 REVIEW
