@@ -8,8 +8,9 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "matplotlib>=3.11.2",
     "pandas>=3.0.6",
-    ]
+]
 
 [project.scripts]
 ed24b018-si-report = "ed24b018_si_report:main"
