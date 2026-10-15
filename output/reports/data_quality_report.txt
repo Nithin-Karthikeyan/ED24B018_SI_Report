@@ -4,10 +4,11 @@ RUSSIA WORLD BANK DATA QUALITY REPORT
 Dataset: Russia_World_Bank_2010_2024.csv
 Period: 2010-2024
 Rows: 15
+Columns: 10
 
-OVERALL ISSUES
+DATASET STRUCTURE ISSUES
 ------------------------------------------------------------
-None detected.
+- Expected columns missing: ['Country', 'Country_Code']
 
 INDICATOR SUMMARY
 ------------------------------------------------------------
@@ -21,3 +22,24 @@ Secondary_school_enrollment           15             13          2    2010, 2024
              Internet_users           15             15          0                 49.000000    94.364954   None
  CO2_per_capita_excl_LULUCF           15             15          0                 11.961747    13.984541   None
                 Forest_area           15             15          0                 50.162328    50.790559   None
+
+UNIT CONSISTENCY CHECK
+------------------------------------------------------------
+Status: SKIPPED
+- Unit consistency check skipped because indicator_metadata.csv was not available.
+
+UNEXPECTED YEAR-TO-YEAR CHANGES
+------------------------------------------------------------
+These observations are flagged for review only and are not automatically treated as incorrect.
+
+                   Variable  Previous_Year  Year  Previous_Value      Value    Change  Modified_Z_Score Status
+            Life_expectancy           2019  2020       73.083902  71.338780 -1.745122         -5.747101 REVIEW
+            Life_expectancy           2020  2021       71.338780  69.900244 -1.438537         -4.937314 REVIEW
+            Life_expectancy           2021  2022       69.900244  72.545610  2.645366          5.849532 REVIEW
+Secondary_school_enrollment           2019  2020      100.471745  91.581288 -8.890456         -8.112009 REVIEW
+         Electricity_access           2011  2012       99.200000 100.000000  0.800000          5.396000 REVIEW
+         Electricity_access           2014  2015      100.000000  95.500000 -4.500000        -30.352500 REVIEW
+         Electricity_access           2015  2016       95.500000  99.400000  3.900000         26.305500 REVIEW
+         Electricity_access           2016  2017       99.400000 100.000000  0.600000          4.047000 REVIEW
+             Internet_users           2010  2011       49.000000  58.000000  9.000000          7.583020 REVIEW
+             Internet_users           2011  2012       58.000000  66.000000  8.000000          6.425300 REVIEW

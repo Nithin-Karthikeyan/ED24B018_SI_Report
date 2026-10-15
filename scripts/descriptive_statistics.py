@@ -1,3 +1,11 @@
+"""
+Function: Compute descriptive statistics for all indicators (mean, median, variance, std dev, IQR, CV, etc.).
+Inputs: data/Russia_World_Bank_2010_2024.csv
+Outputs:
+- output/tables/descriptive_statistics.csv: Full stats table (N, mean, median, min, max, range, variance, std, Q1, Q3, IQR, CV%).
+- output/tables/variability_statistics.csv: Subset focused on dispersion measures (variance, std, CV, range, IQR).
+"""
+
 from pathlib import Path
 import sys
 

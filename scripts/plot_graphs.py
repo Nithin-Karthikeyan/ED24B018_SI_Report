@@ -1,3 +1,13 @@
+"""
+Function: Generate time-series, histograms, boxplots, and scatterplots for all indicators.
+Inputs: data/Russia_World_Bank_2010_2024.csv
+Outputs:
+- output/images/time_series/*.png: Line plots for each indicator over 2010-2024.
+- output/images/histograms/*.png: Distribution histograms for selected variables.
+- output/images/boxplots/*.png: Boxplots showing quartiles and outliers.
+- output/images/scatterplots/*.png: GDP vs life expectancy, electricity access, CO2 emissions.
+"""
+
 from pathlib import Path
 import sys
 
