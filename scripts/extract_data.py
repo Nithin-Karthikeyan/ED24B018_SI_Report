@@ -326,9 +326,9 @@ def main():
         "Year": range(START_YEAR, END_YEAR + 1)
     })
 
-    # Useful identification columns required by the assignment
-    df.insert(1, "Country", COUNTRY_NAME)
-    df.insert(2, "Country_Code", COUNTRY_CODE)
+    # Not exactly needed, so commented out for now
+    # df.insert(1, "Country", COUNTRY_NAME)
+    # df.insert(2, "Country_Code", COUNTRY_CODE)
 
     coverage_records = []
     failed_indicators = []
