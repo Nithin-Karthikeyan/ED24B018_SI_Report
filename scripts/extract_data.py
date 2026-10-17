@@ -614,9 +614,8 @@ def main():
         )
     })
 
-    # Not exactly needed, so commented out for now.
-    # df.insert(1, "Country", COUNTRY_NAME)
-    # df.insert(2, "Country_Code", COUNTRY_CODE)
+    df.insert(1, "Country", COUNTRY_NAME)
+    df.insert(2, "Country_Code", COUNTRY_CODE)
 
     coverage_records = []
     metadata_records = []
